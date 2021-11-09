@@ -34,7 +34,7 @@ Words extacted from input video frames
 ```
 
 ### Related works
-[1] Manjary P Gangan, Anoop K, Lajish V L "Indexing and retrieval of malayalam news videos based on word image matching." In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI), pp. 1103-1108. IEEE, 2017.
+[1] Manjary P Gangan, Anoop K, Lajish V L "Indexing and retrieval of malayalam news videos based on word image matching." In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI), pp. 1103-1108. IEEE, 2017. </br>
 [2] Anoop K, Manjary P Gangan, Lajish V. L. "Mathematical Morphology and Region Clustering Based Text Information Extraction from Malayalam News Videos." Advances in Signal Processing and Intelligent Recognition Systems. Springer, Cham, 2016. 431-442. </br>
 [3] Vivek P, Anoop K, and Lajish V. L. "A KEYWORD SPOTTING APPROACH FOR CONTENT BASED INDEXING AND RETRIEVAL OF MALAYALAM NEWS VIDEOS.",National Symposium on Acoustics - NSA Goa 2015. </br>
  
